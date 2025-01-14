@@ -1,0 +1,14 @@
+{
+  "album_id": "8c2c5d3c-5cb5-4360-8523-4d9920c55490",
+  "name": "Test Album",
+  "description": "My first test album",
+  "created_at": "2025-01-14T09:32:16.056048",
+  "modified_at": "2025-01-14T09:41:53.496228",
+  "creator": "system",
+  "images": [
+    "./DICOM/I1",
+    "./DICOM/I2"
+  ],
+  "metadata": {},
+  "sharing_url": null
+}

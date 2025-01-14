@@ -1,0 +1,5 @@
+pydicom>=2.4.0
+python-dateutil>=2.8.2
+pytest>=7.4.0
+logging>=0.4.9.6
+click
