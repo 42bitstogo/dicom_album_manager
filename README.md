@@ -27,16 +27,6 @@ With this album creator and manager we aim to solve the challenge of sharing spe
 - authentication and authorization 
 - support for different sharing modes and permissions
 
-## Prerequisites
-
-- Python 3.9+
-- Virtual environment (recommended)
-- Required Python packages:
-  - pydicom >= 2.4.0
-  - python-dateutil >= 2.8.2
-  - pytest >= 7.4.0
-  - logging >= 0.4.9.6
-
 ## Installation
 
 1. Clone the repository:
