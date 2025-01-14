@@ -51,7 +51,6 @@ class DicomDataManager:
             patient_id = str(getattr(ds, 'PatientID', 'unknown'))
             logger.debug(f"Found PatientID: {patient_id}")
             
-            # These might be missing in your files - let's handle that
             study_uid = str(getattr(ds, 'StudyInstanceUID', None) or 'study_1')
             series_uid = str(getattr(ds, 'SeriesInstanceUID', None) or 'series_1')
             
